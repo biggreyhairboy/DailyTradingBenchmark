@@ -1,0 +1,64 @@
+{
+  "principal": 26573,
+  "trading_date": "2020-12-26",
+  "exchanges":{
+   "shf": ["au", "ag", "cu", "al", "ni", "zn", "rb", "hc", "ru", "pb", "sn", "fu", "bu", "sp", "ss"],
+   "dce": ["m", "y", "p","a", "b", "c", "cs", "jd", "l", "v", "eg", "pp", "j", "jm", "i", "eb", "pg"],
+   "czc":  ["ma", "ta", "sr", "cf", "zc", "fg", "pf", "oi", "rm", "sf", "sm", "ap", "cj", "ur", "sa"],
+   "ine":  ["sc", "nr", "lu", "bc"]
+},
+  "active_contracts": {
+    "shfe": {
+      "au" : "au2106",
+      "ag" : "ag2102",
+      "cu": "cu2102",
+      "al": "al2102",
+      "pb": "pb2102",
+      "zn": "zn2102",
+      "ni": "ni2103",
+      "sn": "sn2103",
+      "rb": "rb2105",
+      "hc": "hc2105",
+      "fu": "fu2105",
+      "bu": "bu2106",
+      "ru": "ru2105",
+      "sp": "sp2103",
+      "ss": "ss2103"
+    },
+    "dce": {
+      "m": "m2105",
+      "a": "a2105",
+      "b": "b2102",
+      "i": "i2105",
+      "y": "y2105",
+      "p": "p2105",
+      "c": "c2105",
+      "cs": "cs2105",
+      "jd": "jd2105",
+      "l": "l2105",
+      "v": "v2105",
+      "pp": "pp2105",
+      "eg": "eg2105",
+      "jm": "jm2105",
+      "eb": "eb2102",
+      "pg": "pg2102"
+    },
+    "czc": {
+      "ta": "ta105",
+      "ma": "ma105",
+      "sr": "sr105",
+      "cf": "cf105",
+      "zc": "zc105",
+      "fg": "fg105",
+      "pf": "pf105",
+      "oi": "oi105",
+      "rm": "rm105",
+      "sf": "sf105",
+      "sm": "sm105",
+      "sp": "ap105",
+      "cj": "cj105",
+      "ur": "ur105",
+      "sa": "sa105"
+    }
+  }
+}
